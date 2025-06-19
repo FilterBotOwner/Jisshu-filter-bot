@@ -983,7 +983,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
  
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/Jisshubot/Jisshu-filter-bot')
+            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://youtu.be/zsbm-iIOQpQ?si=R2e6pGTAVOHMde_c')
         ],[
             InlineKeyboardButton('⋞ ʙᴀᴄᴋ', callback_data='about'),
             InlineKeyboardButton('• ᴄʟᴏsᴇ •', callback_data='close_data')
